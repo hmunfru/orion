@@ -1,4 +1,4 @@
-name              "contextbroker-standalon"
+name              "orion"
 maintainer        "Henar Munoz"
 maintainer_email  "henar@tid.es"
 license           "Apache 2.0"
