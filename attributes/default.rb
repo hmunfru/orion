@@ -1,1 +1,1 @@
-default[:oriondbcluster][:package_name] ="contextBroker"
+default[:orion][:package_name] ="contextBroker"
