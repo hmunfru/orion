@@ -1,7 +1,7 @@
 include_recipe "orion::mongod2"
 include_recipe "orion::fiware_repo"
 
-package node[:oriondbcluster][:package_name] do
+package node[:orion][:package_name] do
   action :install
   options "--nogpgcheck"
 end
